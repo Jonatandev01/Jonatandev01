@@ -23,13 +23,22 @@
 
 ---
 
-## **🚀 Proyectos Destacados** *(Próximamente más detalles)*  
+## **🚀 Proyectos Destacados**
+
+- **📘 Estructuras de Control en JavaScript**  
+  Una guía interactiva y educativa para comprender las estructuras de control más usadas en JavaScript.  
+  🔗 [estructurascontroljs.netlify.app](https://estructurascontroljs.netlify.app/)
+
+- **🧠 Proyecto de Lógica y Pensamiento Computacional**  
+  Aplicación didáctica centrada en fomentar el razonamiento lógico en estudiantes.  
+  🔗 [calm-custard-e95f8d.netlify.app](https://calm-custard-e95f8d.netlify.app/)
+
 - **Aplicación Full Stack con React + Node.js + AWS**  
 - **Sistema de Microservicios con Docker & Kubernetes**  
 - **Plataforma SaaS en Google Cloud**  
-- **Automatización CI/CD con GitHub Actions & Terraform**  
+- **Automatización CI/CD con GitHub Actions & Terraform**
 
-🔜 *Más proyectos en desarrollo...*  
+🔜 *Más proyectos en desarrollo...*
 
 ---
 
